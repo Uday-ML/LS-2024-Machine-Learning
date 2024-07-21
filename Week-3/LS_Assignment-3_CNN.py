@@ -1,3 +1,4 @@
+#As loading files were difficult in google colab, I've run this in pyscripter
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.preprocessing import image_dataset_from_directory
